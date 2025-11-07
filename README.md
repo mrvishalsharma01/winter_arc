@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/mrvishalsharma01/winter_arc/tree/master/3863-power-grid-maintenance) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -81,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
