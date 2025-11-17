@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mrvishalsharma01/winter_arc/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mrvishalsharma01/winter_arc/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
