@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrvishalsharma01/winter_arc/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
