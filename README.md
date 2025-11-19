@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mrvishalsharma01/winter_arc/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mrvishalsharma01/winter_arc/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
