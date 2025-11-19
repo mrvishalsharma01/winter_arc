@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrvishalsharma01/winter_arc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/mrvishalsharma01/winter_arc/tree/master/3863-power-grid-maintenance) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
@@ -179,9 +183,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
