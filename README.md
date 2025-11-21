@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/2288-count-operations-to-obtain-zero) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mrvishalsharma01/winter_arc/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0141-linked-list-cycle) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mrvishalsharma01/winter_arc/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
