@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mrvishalsharma01/winter_arc/tree/master/0875-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mrvishalsharma01/winter_arc/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mrvishalsharma01/winter_arc/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
