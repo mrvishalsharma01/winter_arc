@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mrvishalsharma01/winter_arc/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mrvishalsharma01/winter_arc/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrvishalsharma01/winter_arc/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrvishalsharma01/winter_arc/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/2625-increment-submatrices-by-one) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mrvishalsharma01/winter_arc/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/mrvishalsharma01/winter_arc/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mrvishalsharma01/winter_arc/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
