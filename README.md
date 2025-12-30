@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrvishalsharma01/winter_arc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/mrvishalsharma01/winter_arc/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrvishalsharma01/winter_arc/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0371-sum-of-two-integers) |
+| [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mrvishalsharma01/winter_arc/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
