@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mrvishalsharma01/winter_arc/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0088-merge-sorted-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0371-sum-of-two-integers) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
