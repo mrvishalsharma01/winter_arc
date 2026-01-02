@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mrvishalsharma01/winter_arc/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mrvishalsharma01/winter_arc/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/1015-smallest-integer-divisible-by-k) |
