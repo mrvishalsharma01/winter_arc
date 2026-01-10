@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrvishalsharma01/winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mrvishalsharma01/winter_arc/tree/master/1458-max-dot-product-of-two-subsequences) |
