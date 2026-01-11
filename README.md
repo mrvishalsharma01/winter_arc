@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mrvishalsharma01/winter_arc/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrvishalsharma01/winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mrvishalsharma01/winter_arc/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrvishalsharma01/winter_arc/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mrvishalsharma01/winter_arc/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrvishalsharma01/winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrvishalsharma01/winter_arc/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0143-reorder-list) |
 | [2211-count-collisions-on-a-road](https://github.com/mrvishalsharma01/winter_arc/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
