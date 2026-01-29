@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrvishalsharma01/winter_arc/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mrvishalsharma01/winter_arc/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrvishalsharma01/winter_arc/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mrvishalsharma01/winter_arc/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mrvishalsharma01/winter_arc/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mrvishalsharma01/winter_arc/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mrvishalsharma01/winter_arc/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mrvishalsharma01/winter_arc/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/mrvishalsharma01/winter_arc/tree/master/3606-coupon-code-validator) |
@@ -532,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
