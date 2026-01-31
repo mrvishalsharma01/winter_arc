@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0704-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrvishalsharma01/winter_arc/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mrvishalsharma01/winter_arc/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mrvishalsharma01/winter_arc/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mrvishalsharma01/winter_arc/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
