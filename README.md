@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mrvishalsharma01/winter_arc/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrvishalsharma01/winter_arc/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mrvishalsharma01/winter_arc/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mrvishalsharma01/winter_arc/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/mrvishalsharma01/winter_arc/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mrvishalsharma01/winter_arc/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mrvishalsharma01/winter_arc/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mrvishalsharma01/winter_arc/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/mrvishalsharma01/winter_arc/tree/master/3433-count-mentions-per-user) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/mrvishalsharma01/winter_arc/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mrvishalsharma01/winter_arc/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Divide and Conquer
 |  |
