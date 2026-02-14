@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
