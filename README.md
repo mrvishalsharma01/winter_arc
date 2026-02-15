@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/mrvishalsharma01/winter_arc/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/2288-count-operations-to-obtain-zero) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mrvishalsharma01/winter_arc/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/mrvishalsharma01/winter_arc/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mrvishalsharma01/winter_arc/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0191-number-of-1-bits) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0371-sum-of-two-integers) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
