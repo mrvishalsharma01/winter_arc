@@ -1,15 +1,17 @@
 class Solution {
 public:
     int reverseBits(int n) {
-        unsigned int result = 0; // Use unsigned to handle 32-bit correctly
-        
-        // Process all 32 bits
-        for(int i = 0; i < 32; i++) {
-            int bit = n & 1;            // Extract the last bit of n
-            result = (result << 1) | bit; // Shift result left and add the extracted bit
-            n = n >> 1;                 // Shift n right to process next bit
-        }
-        
-        return result;
+        n = (n >> 16) | (n << 16);
+        n = ((n & 0b11111111000000001111111100000000) >> 8)
+          | ((n & 0b00000000111111110000000011111111) << 8);
+        n = ((n & 0b11110000111100001111000011110000) >> 4)
+          | ((n & 0b00001111000011110000111100001111) << 4);
+        n = ((n & 0b11001100110011001100110011001100) >> 2)
+          | ((n & 0b00110011001100110011001100110011) << 2);
+        n = ((n & 0b10101010101010101010101010101010) >> 1)
+          | ((n & 0b01010101010101010101010101010101) << 1);
+
+        return n;
     }
 };
+
