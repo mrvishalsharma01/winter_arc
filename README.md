@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/mrvishalsharma01/winter_arc/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrvishalsharma01/winter_arc/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2942-find-words-containing-character](https://github.com/mrvishalsharma01/winter_arc/tree/master/2942-find-words-containing-character) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mrvishalsharma01/winter_arc/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mrvishalsharma01/winter_arc/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mrvishalsharma01/winter_arc/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mrvishalsharma01/winter_arc/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2942-find-words-containing-character](https://github.com/mrvishalsharma01/winter_arc/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
