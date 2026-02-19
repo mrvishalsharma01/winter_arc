@@ -5,21 +5,21 @@ public:
 
     }
     int maxFreqSum(string s) {
-        int n=s.length();
+        int freq[26]={0};
+        for(char ch:s){
+            freq[ch-'a']++;
+        }
         int maxVowel=0;
         int maxConsonant=0;
 
-        for(int i=0; i<n; i++){
-            int count=0;
-            for(int j=0; j<n; j++){
-                if(s[i]==s[j]){
-                    count++;
+        for(int i=0;i<26; i++){
+            if(freq[i]>0){
+                char ch=i+'a';
+                if(isVowel(ch)){
+                    maxVowel=max(maxVowel, freq[i]);
+                }else{
+                    maxConsonant=max(maxConsonant, freq[i]);
                 }
-            }
-            if(isVowel(s[i])){
-                maxVowel=max(maxVowel, count);
-            }else{
-                maxConsonant=max(maxConsonant, count);
             }
         }
         return maxVowel+maxConsonant;
