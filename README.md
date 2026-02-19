@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/mrvishalsharma01/winter_arc/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/mrvishalsharma01/winter_arc/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
