@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
 | [0990-verifying-an-alien-dictionary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0990-verifying-an-alien-dictionary) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrvishalsharma01/winter_arc/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0011-container-with-most-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/mrvishalsharma01/winter_arc/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrvishalsharma01/winter_arc/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/mrvishalsharma01/winter_arc/tree/master/3583-count-special-triplets) |
