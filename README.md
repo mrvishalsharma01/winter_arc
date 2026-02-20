@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/mrvishalsharma01/winter_arc/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mrvishalsharma01/winter_arc/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mrvishalsharma01/winter_arc/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mrvishalsharma01/winter_arc/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/mrvishalsharma01/winter_arc/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3721-longest-balanced-subarray-ii) |
