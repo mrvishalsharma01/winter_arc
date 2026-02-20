@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
+| [0541-reverse-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0287-find-the-duplicate-number) |
+| [0541-reverse-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/mrvishalsharma01/winter_arc/tree/master/0876-middle-of-the-linked-list) |
