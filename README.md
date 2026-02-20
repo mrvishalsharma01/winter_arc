@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/mrvishalsharma01/winter_arc/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mrvishalsharma01/winter_arc/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrvishalsharma01/winter_arc/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mrvishalsharma01/winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mrvishalsharma01/winter_arc/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mrvishalsharma01/winter_arc/tree/master/0242-valid-anagram) |
