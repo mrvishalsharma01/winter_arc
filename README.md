@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mrvishalsharma01/winter_arc/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrvishalsharma01/winter_arc/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mrvishalsharma01/winter_arc/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/0759-set-intersection-size-at-least-two) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mrvishalsharma01/winter_arc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/mrvishalsharma01/winter_arc/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/1903-largest-odd-number-in-string) |
