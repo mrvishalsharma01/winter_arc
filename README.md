@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/mrvishalsharma01/winter_arc/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrvishalsharma01/winter_arc/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
@@ -689,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mrvishalsharma01/winter_arc/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
