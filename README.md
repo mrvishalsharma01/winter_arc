@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mrvishalsharma01/winter_arc/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/mrvishalsharma01/winter_arc/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrvishalsharma01/winter_arc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrvishalsharma01/winter_arc/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/mrvishalsharma01/winter_arc/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/mrvishalsharma01/winter_arc/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/mrvishalsharma01/winter_arc/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrvishalsharma01/winter_arc/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrvishalsharma01/winter_arc/tree/master/0792-binary-search) |
