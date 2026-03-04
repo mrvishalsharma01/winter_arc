@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mrvishalsharma01/winter_arc/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mrvishalsharma01/winter_arc/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mrvishalsharma01/winter_arc/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrvishalsharma01/winter_arc/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mrvishalsharma01/winter_arc/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mrvishalsharma01/winter_arc/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mrvishalsharma01/winter_arc/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/mrvishalsharma01/winter_arc/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mrvishalsharma01/winter_arc/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/1975-maximum-matrix-sum) |
