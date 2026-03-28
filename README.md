@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrvishalsharma01/winter_arc/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/mrvishalsharma01/winter_arc/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mrvishalsharma01/winter_arc/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/mrvishalsharma01/winter_arc/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mrvishalsharma01/winter_arc/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3433-count-mentions-per-user](https://github.com/mrvishalsharma01/winter_arc/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mrvishalsharma01/winter_arc/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrvishalsharma01/winter_arc/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrvishalsharma01/winter_arc/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mrvishalsharma01/winter_arc/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
