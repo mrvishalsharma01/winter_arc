@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/mrvishalsharma01/winter_arc/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrvishalsharma01/winter_arc/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrvishalsharma01/winter_arc/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/mrvishalsharma01/winter_arc/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mrvishalsharma01/winter_arc/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mrvishalsharma01/winter_arc/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -785,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mrvishalsharma01/winter_arc/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
