@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/mrvishalsharma01/winter_arc/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvishalsharma01/winter_arc/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mrvishalsharma01/winter_arc/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/mrvishalsharma01/winter_arc/tree/master/0981-time-based-key-value-store) |
@@ -844,5 +845,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/mrvishalsharma01/winter_arc/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
