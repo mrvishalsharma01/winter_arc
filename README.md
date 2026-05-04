@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mrvishalsharma01/winter_arc/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mrvishalsharma01/winter_arc/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mrvishalsharma01/winter_arc/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/mrvishalsharma01/winter_arc/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mrvishalsharma01/winter_arc/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrvishalsharma01/winter_arc/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/mrvishalsharma01/winter_arc/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mrvishalsharma01/winter_arc/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/mrvishalsharma01/winter_arc/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/mrvishalsharma01/winter_arc/tree/master/0840-magic-squares-in-grid) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mrvishalsharma01/winter_arc/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/mrvishalsharma01/winter_arc/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/mrvishalsharma01/winter_arc/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mrvishalsharma01/winter_arc/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mrvishalsharma01/winter_arc/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mrvishalsharma01/winter_arc/tree/master/0069-sqrtx) |
