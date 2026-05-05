@@ -1,49 +1,53 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
+ /*
+ m sbse phle calculate kr rha hun ki 
+ */
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        
-        // Edge case: empty list or single node
-        if (head == NULL || head->next == NULL || k == 0) {
-            return head;
+        if(k==0){return head;}  //agr k=0 mtlb no rotation
+       int size = fillq(head); //loop for getting size
+       if(size==0 || size==1){return head;} //agr size 0 to kya rotate kroge
+       while(k>=size){k=k-size;} //to reduce k
+       if(k==0){return head;}
+
+       rot(head,head,k);
+
+       return head;
+    }
+
+    void rot(ListNode* &head,ListNode* &l,int k)
+    {
+       static int c=0;
+       if(head!=nullptr)
+       {
+           rot(head->next,l,k);
+           if(c<k){
+           ListNode* t=new ListNode(head->val);
+           t->next=l;
+           l=t;   
+           head=nullptr;c++;}
+       }
+       else{c=0;} //taki static c ka effect na aye
+    }
+
+    int fillq(ListNode* head)
+    {   int count=0;
+        while(head!=nullptr)
+        {
+            head=head->next;
+            count++;
         }
-        
-        // Step 1: Find length and last node
-        ListNode* temp = head;
-        int length = 1;
-        
-        while (temp->next != NULL) {
-            temp = temp->next;
-            length++;
-        }
-        
-        // temp is now last node
-        
-        // Step 2: Reduce k
-        k = k % length;
-        
-        // If k becomes 0, no rotation needed
-        if (k == 0) {
-            return head;
-        }
-        
-        // Step 3: Make list circular
-        temp->next = head;
-        
-        // Step 4: Find new tail
-        int stepsToNewTail = length - k - 1;
-        
-        ListNode* newTail = head;
-        
-        for (int i = 0; i < stepsToNewTail; i++) {
-            newTail = newTail->next;
-        }
-        
-        // New head
-        ListNode* newHead = newTail->next;
-        
-        // Step 5: Break circle
-        newTail->next = NULL;
-        
-        return newHead;
+        return count;
     }
 };
