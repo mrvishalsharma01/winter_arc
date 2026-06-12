@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/mrvishalsharma01/winter_arc/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/mrvishalsharma01/winter_arc/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mrvishalsharma01/winter_arc/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mrvishalsharma01/winter_arc/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/mrvishalsharma01/winter_arc/tree/master/3863-power-grid-maintenance) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mrvishalsharma01/winter_arc/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/mrvishalsharma01/winter_arc/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mrvishalsharma01/winter_arc/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mrvishalsharma01/winter_arc/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3623-count-number-of-trapezoids-i) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/mrvishalsharma01/winter_arc/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mrvishalsharma01/winter_arc/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mrvishalsharma01/winter_arc/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mrvishalsharma01/winter_arc/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
