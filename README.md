@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mrvishalsharma01/winter_arc/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mrvishalsharma01/winter_arc/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/mrvishalsharma01/winter_arc/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/mrvishalsharma01/winter_arc/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3433-count-mentions-per-user](https://github.com/mrvishalsharma01/winter_arc/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/mrvishalsharma01/winter_arc/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/mrvishalsharma01/winter_arc/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/mrvishalsharma01/winter_arc/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
