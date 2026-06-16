@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mrvishalsharma01/winter_arc/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3433-count-mentions-per-user](https://github.com/mrvishalsharma01/winter_arc/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/mrvishalsharma01/winter_arc/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mrvishalsharma01/winter_arc/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mrvishalsharma01/winter_arc/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/mrvishalsharma01/winter_arc/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/mrvishalsharma01/winter_arc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mrvishalsharma01/winter_arc/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/mrvishalsharma01/winter_arc/tree/master/3838-weighted-word-mapping) |
